@@ -1,1 +1,97 @@
-# aywJuKaS1
+
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayo, this short king straight wildin’ out 😭🔥</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffffff;
+            padding: 20px;
+        }
+        .video-title {
+            font-size: 1em;
+            font-weight: bold;
+            margin-bottom: 18px;
+            letter-spacing: 1px;
+            color: black;
+        }
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            max-width: 720px;
+            margin: 0 auto;
+        }
+        video {
+            width: 100%;
+            max-width: 100%;
+            border-radius: 10px;
+            display: block;
+        }
+        .ad-banner-inside {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 320px;
+            height: 50px;
+            background: rgba(255,255,255,0.92);
+            border-radius: 10px 10px 0 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2;
+            overflow: hidden;
+        }
+        @media (max-width: 400px) {
+            .ad-banner-inside {
+                width: 95vw;
+                height: 40px;
+                font-size: 0.85em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="video-title">Ayo, this short king straight wildin’ out 😭🔥<span aria-label="smile" role="img"></span></div>
+    <center><script type="text/javascript">
+	atOptions = {
+		'key' : '1ab71718c6878ddb568ebdf2b9908aa3',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//thickmaggot.com/1ab71718c6878ddb568ebdf2b9908aa3/invoke.js"></script>
+</center>
+	<br>
+    <div class="video-wrapper">
+        <video autoplay loop playsinline controls poster="https://videos.openai.com/az/vg-assets/task_01k8xdm7gsf1nv74vb9fxpycza%2F1761924075_img_0.webp?se=2025-11-06T15%3A22%3A28Z&sp=r&sv=2024-08-04&sr=b&skoid=1af02b11-169c-463d-b441-d2ccfc9f02c8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-31T12%3A32%3A29Z&ske=2025-11-07T12%3A37%3A29Z&sks=b&skv=2024-08-04&sig=Tpoyx4VlYJPj2gKZwXCr15ebbSlaLlC/BIezjYxOfDs%3D&ac=oaivgprodscus2">
+            <source src="https://cdn.videy.co/aywJuKaS1.mp4" type="video/mp4">
+        </video>
+		<div style="text-align: center; margin: 30px 0;">
+  <a href="https://istbw.com/4/9906109" style="display: inline-flex; align-items: center; gap: 10px; background-color: #000000; color: white; font-size: 20px; font-weight: bold; padding: 16px 28px; border-radius: 8px; text-decoration: none; box-shadow: 0 0 15px rgba(255 255 255 / 80%); animation: blink 1.5s infinite;">▶︎ FULL HD VIDEO
+  </a>
+</div>
+    </div>
+<br>
+<div id="container-b771960e0b30f8e2ddf3cad2dfc95475"></div>
+</body>
+</html>
+   <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4970957,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4970957&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
